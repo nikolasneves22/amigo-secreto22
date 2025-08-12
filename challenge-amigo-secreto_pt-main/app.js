@@ -76,6 +76,3 @@ function limparLista() {
     let ulResultado = document.getElementById("resultado");
     ulResultado.innerHTML = '';
 }
-
-
-//teste de comando
