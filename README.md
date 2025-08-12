@@ -1,3 +1,4 @@
+![Amigo](https://github.com/user-attachments/assets/99fee551-5653-4130-91ca-0de9bccb1870)
 📝Projeto: Amigo Secreto em JavaScript
 
 🎯 Contextualização Em diversas situações cotidianas — como sorteios em eventos, dinâmicas de grupo, distribuição de tarefas ou premiações é necessário selecionar aleatoriamente uma pessoa de uma lista. Muitas vezes, esse processo é feito manualmente, o que pode gerar dúvidas sobre a imparcialidade ou eficiência da escolha.
@@ -22,4 +23,6 @@ Possibilidade de personalização da lista de nomes.
 
 Código aberto e reutilizável para fins educacionais ou comerciais. 
 
-<img width="1600" height="900" alt="Captura de Tela (4)" src="https://github.com/user-attachments/assets/11bc3280-6464-4334-a055-0307863b010a" />
+<img width="1600" height="900" alt="Captura de Tela (4)"
+  
+  src="https://github.com/user-attachments/assets/11bc3280-6464-4334-a055-0307863b010a" />
