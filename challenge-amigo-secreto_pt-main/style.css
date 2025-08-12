@@ -160,3 +160,20 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+.button-clear {
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    padding: 10px 40px;
+    margin-left: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.button-clear:hover {
+    background-color: #fb8a00cc;
+}
