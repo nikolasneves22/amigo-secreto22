@@ -22,7 +22,11 @@ Serve como base para projetos maiores, como sistemas de sorteio com múltiplos c
 Possibilidade de personalização da lista de nomes.
 
 Código aberto e reutilizável para fins educacionais ou comerciais. 
-
-<img width="1600" height="900" alt="Captura de Tela (4)"
   
   src="https://github.com/user-attachments/assets/11bc3280-6464-4334-a055-0307863b010a" />
+
+  🌐 Como acessar no navegador
+
+  <https://amigo-secreto22-theta.vercel.app/>
+
+  
